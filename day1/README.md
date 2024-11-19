@@ -1,0 +1,1 @@
+There are separate instructions at the start of day 1 lessons to work this entire course in pycharm (some template for the course is available in a well integrated style)
